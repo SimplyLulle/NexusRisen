@@ -58,3 +58,12 @@ start blaine_sheriff
 start calmai
 
 
+# MYSQL EXECUTION CODE
+
+Optium
+```
+INSERT INTO items (name, label) VALUES
+(‘opium’, ‘Opium’),
+(‘opium_pooch’, ‘Pochon de opium’)
+;
+```
