@@ -20,11 +20,14 @@ start cron
 
 # EssentialMode Resources
 
+start instance <br/>
 start esx_billing <br/>
 start esx_addonaccount <br/>
+start esx_addoninventory <br/>
 start esx_society <br/>
 start esx_datastore <br/>
 start esx_identity <br/>
 start esx_license <br/>
+start esx_property <br/>
 start esx_policejob
 
