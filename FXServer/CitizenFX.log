@@ -1,0 +1,56 @@
+[         0] INFO: No channel links found in configuration file.
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        93] Found new resource fivem in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem-map-skater
+[       203] Found new resource runcode in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//runcode
+[       218] Found new resource race in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gamemodes]/race
+[       234] Found new resource race-test in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gamemodes]/race-test
+[       250] Found new resource channelfeed in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/channelfeed
+[       250] Found new resource irc in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/irc
+[       265] Found new resource obituary in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/obituary
+[       265] Found new resource obituary-deaths in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/obituary-deaths
+[       281] Found new resource playernames in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/playernames
+[       297] Found new resource mapmanager in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/baseevents
+[       312] Found new resource chat in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/chat
+[       328] Found new resource hardcap in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/hardcap
+[       328] Found new resource rconlog in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/rconlog
+[       343] Found new resource scoreboard in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/scoreboard
+[       359] Found new resource sessionmanager in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[test]/gameInit
+[       390] Found new resource keks in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[test]/keks
+[       406] Found new resource yarn in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/[builders]/yarn
+[       437] Started resource sessionmanager
+[       453] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] INFO: No channel links found in configuration file.
+[        31] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource fivem in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//runcode
+[       141] Found new resource race in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/irc
+[       187] Found new resource obituary in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/obituary
+[       203] Found new resource obituary-deaths in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/obituary-deaths
+[       203] Found new resource playernames in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[gameplay]/playernames
+[       219] Found new resource mapmanager in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[managers]/mapmanager
+[       234] Found new resource baseevents in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/baseevents
+[       250] Found new resource chat in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/chat
+[       250] Found new resource hardcap in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/hardcap
+[       266] Found new resource rconlog in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/rconlog
+[       266] Found new resource scoreboard in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/scoreboard
+[       281] Found new resource sessionmanager in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/sessionmanager
+[       297] Found new resource spawnmanager in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/spawnmanager
+[       312] Found new resource betaguns in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[test]/betaguns
+[       312] Found new resource gameInit in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[test]/gameInit
+[       328] Found new resource keks in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[test]/keks
+[       344] Found new resource yarn in C:/Users\Brandon\Documents\GitHub\NexusRisen\FXServer/resources//[system]/[builders]/yarn
+[       375] Started resource sessionmanager
+[       391] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
