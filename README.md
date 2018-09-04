@@ -22,6 +22,10 @@ start cron
 
 start allcity_wallet <br/>
 start new_banking <br/>
+start esx_status <br />
+start esx_basicneeds <br/>
+start esx_optionalneeds <br/>
+start esx_customui <br />
 start instance <br/>
 start esx_billing <br/>
 start esx_addonaccount <br/>
