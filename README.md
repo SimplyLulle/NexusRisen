@@ -41,6 +41,7 @@ start esx_addoninventory
 start esx_society
 start esx_datastore
 start esx_identity
+start esx_skin
 start esx_license
 start esx_property
 start esx_policejob
