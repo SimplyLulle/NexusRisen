@@ -38,5 +38,6 @@ start esx_identity <br/>
 start esx_license <br/>
 start esx_property <br/>
 start esx_policejob <br/>
-start esx_hospital
+start esx_hospital <br/>
+start esx_panicbutton
 
