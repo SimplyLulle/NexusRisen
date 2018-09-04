@@ -41,9 +41,13 @@ start esx_policejob <br/>
 start esx_hospital <br/>
 start esx_panicbutton
 
-# EssentialMode Map Resources
+# Map Resources
 
 start police_dept <br/>
 start weigh_stations <br/>
 start route13_barriers
+
+# Resources
+
+start calmai
 
