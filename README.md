@@ -47,7 +47,12 @@ start police_dept <br/>
 start weigh_stations <br/>
 start route13_barriers
 
+# Vehicle Resources
+
+start blaine_sheriff
+
 # Resources
 
 start calmai
+
 
