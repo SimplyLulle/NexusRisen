@@ -35,5 +35,6 @@ start esx_datastore <br/>
 start esx_identity <br/>
 start esx_license <br/>
 start esx_property <br/>
-start esx_policejob
+start esx_policejob <br/>
+start esx_hospital
 
