@@ -44,6 +44,7 @@ start esx_drugs <br/>
 start esx_selldrugs <br/>
 start esx_crafting <br/>
 start esx_hospital <br/>
+start esx_borrmaskin <br/>
 start esx_panicbutton
 
 # Map Resources
@@ -93,7 +94,31 @@ Recipes are defined in tables with the following structure:
     { item = "ingredient2", quantity = 3 },
 },
 ```
-In the example above, the resultingItemName requires two "ingredient1" and three "ingredient2". NOTE: These are all based on the name field of the item in the database, not the label field. There is no limit on the amount of recipes you can create, nor the amount of ingredients each recipe can have. The remove parameter is optional. remove = false will prevent the ingredient item from being removed from the player's inventory. remove will default to true if not specified.
+In the example above, the resultingItemName requires two "ingredient1" and three "ingredient2". 
+NOTE: These are all based on the name field of the item in the database, not the label field. 
+There is no limit on the amount of recipes you can create, nor the amount of ingredients each recipe can have. 
+The remove parameter is optional. remove = false will prevent the ingredient item from being removed from the player's inventory.
+Remove will default to true if not specified.
 
-The Crafting Menu can be made available either through a "store" where a player must visit a specified location on the map, or through a keyboard shortcut. Both of these options may be configured through the config.lua file.
+The Crafting Menu can be made available either through a "store" where a player must visit a specified location on the map, or through a keyboard shortcut. 
+Both of these options may be configured through the config.lua file.
+
+## Drill Machine Item
+Create "drill" in items table
+
+```
+INSERT INTO `items` (`name`, `label`, `limit`) VALUES  
+    ('drill', 'Borrmaskin', 1)
+;
+```
+If you want it added to ESX Shops. Execute this SQL.
+
+```
+INSERT INTO `shops` (name, item, price) VALUES
+	('TwentyFourSeven','drill',1000),
+	('RobsLiquor','drill',1000),
+	('LTDgasoline','drill',1000)
+;
+```
+
 
