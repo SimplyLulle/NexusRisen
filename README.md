@@ -3,23 +3,23 @@
 Run the Resources in correct order in order to work properly
 
 # Main Mysql Resources
-
+```
 start mysql-async <br/>
 start async
-
+```
 # Main EssentialMode Resources
-
+```
 start essentialmode <br/>
 start es_plugin_mysql <br/>
 start es_extended <br/>
 start es_admin2
-
+```
 # Main EssentialMode CronJob
-
+```
 start cron
-
+```
 # EssentialMode Resources
-
+```
 start esx_service <br/>
 start esx_shops <br/>
 start esx_extraitems <br/>
@@ -27,6 +27,10 @@ start allcity_wallet <br/>
 start new_banking <br/>
 start esx_status <br />
 start esx_basicneeds <br/>
+start esx_menu_default <br/>
+start esx_menu_list <br/>
+start esx_menu_dialog <br/>
+start esx_gym <br/>
 start esx-qalle-needs <br/>
 start esx_optionalneeds <br/>
 start esx_customui <br />
@@ -51,25 +55,25 @@ start esx_panicbutton <br/>
 start esx_mecanojob <br/>
 start esx_thief <br/>
 start esx_blackmoney
-
+```
 # EssentialMode Jobs
-
+```
 start esx_vigneronjob
-
+```
 # Map Resources
-
+```
 start police_dept <br/>
 start weigh_stations <br/>
 start route13_barriers
-
+```
 # Vehicle Resources
-
+```
 start blaine_sheriff
-
+```
 # Resources
-
+```
 start calmai
-
+```
 
 # MYSQL EXECUTION CODE
 
