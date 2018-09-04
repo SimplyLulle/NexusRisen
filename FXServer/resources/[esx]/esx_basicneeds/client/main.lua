@@ -55,6 +55,26 @@ AddEventHandler('esx_status:loaded', function(status)
 		end
 	)
 
+	--For Shit Bars
+	TriggerEvent('esx_status:registerStatus', 'shit', 1000000, '#663300',
+		function(status)
+			return true
+		end,
+		function(status)
+			status.remove(60)
+		end
+	)
+	
+	--For Pee Bars
+	TriggerEvent('esx_status:registerStatus', 'pee', 1000000, '#FFFF00',
+		function(status)
+			return true
+		end,
+		function(status)
+			status.remove(75)
+		end
+	)
+
 	Citizen.CreateThread(function()
 
 		while true do
@@ -80,6 +100,28 @@ AddEventHandler('esx_status:loaded', function(status)
 
 					if prevHealth <= 150 then
 						health = health - 5
+					else
+						health = health - 1
+					end
+				end
+			end)
+
+			TriggerEvent('esx_status:getStatus', 'pee', function(status)
+				if status.val == 0 then
+
+					if prevHealth <= 150 then
+						health = health - 2
+					else
+						health = health - 1
+					end
+				end
+			end)
+
+			TriggerEvent('esx_status:getStatus', 'shit', function(status)
+				if status.val == 0 then
+
+					if prevHealth <= 150 then
+						health = health - 2
 					else
 						health = health - 1
 					end
