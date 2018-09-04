@@ -20,6 +20,7 @@ start cron
 
 # EssentialMode Resources
 
+start esx_service <br/>
 start esx_shops <br/>
 start esx_extraitems <br/>
 start allcity_wallet <br/>
