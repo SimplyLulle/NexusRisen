@@ -45,6 +45,7 @@ start esx_selldrugs <br/>
 start esx_crafting <br/>
 start esx_hospital <br/>
 start esx_borrmaskin <br/>
+start esx_holdupbank <br/>
 start esx_panicbutton
 
 # Map Resources
