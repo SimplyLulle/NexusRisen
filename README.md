@@ -49,7 +49,8 @@ start esx_borrmaskin <br/>
 start esx_holdupbank <br/>
 start esx_panicbutton <br/>
 start esx_mecanojob <br/>
-start esx_thief
+start esx_thief <br/>
+start esx_blackmoney
 
 # EssentialMode Jobs
 
