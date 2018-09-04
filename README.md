@@ -50,6 +50,10 @@ start esx_holdupbank <br/>
 start esx_panicbutton <br/>
 start esx_thief
 
+# EssentialMode Jobs
+
+start esx_vigneronjob
+
 # Map Resources
 
 start police_dept <br/>
