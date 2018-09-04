@@ -43,6 +43,7 @@ start esx_datastore
 start esx_identity
 start skinchanger
 start esx_skin
+start esx_clotheshop
 start esx_license
 start esx_property
 start esx_policejob
