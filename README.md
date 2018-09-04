@@ -9,9 +9,9 @@ start async
 ```
 # Main EssentialMode Resources
 ```
-start essentialmode <br/>
-start es_plugin_mysql <br/>
-start es_extended <br/>
+start essentialmode
+start es_plugin_mysql
+start es_extended
 start es_admin2
 ```
 # Main EssentialMode CronJob
@@ -20,41 +20,41 @@ start cron
 ```
 # EssentialMode Resources
 ```
-start esx_service <br/>
-start esx_shops <br/>
-start esx_extraitems <br/>
-start allcity_wallet <br/>
-start new_banking <br/>
-start esx_status <br />
-start esx_basicneeds <br/>
-start esx_menu_default <br/>
-start esx_menu_list <br/>
-start esx_menu_dialog <br/>
-start esx_gym <br/>
-start esx-qalle-needs <br/>
-start esx_optionalneeds <br/>
-start esx_customui <br />
-start instance <br/>
-start esx_billing <br/>
-start esx_addonaccount <br/>
-start esx_addoninventory <br/>
-start esx_society <br/>
-start esx_datastore <br/>
-start esx_identity <br/>
-start esx_license <br/>
-start esx_property <br/>
-start esx_policejob <br/>
-start esx_celldoors <br/>
-start esx_drugs <br/>
-start esx_selldrugs <br/>
-start esx_crafting <br/>
-start esx_hospital <br/>
-start esx_borrmaskin <br/>
-start esx_holdupbank <br/>
-start esx_panicbutton <br/>
-start esx_mecanojob <br/>
-start esx_thief <br/>
-start esx_blackmoney <br/>
+start esx_service
+start esx_shops
+start esx_extraitems
+start allcity_wallet
+start new_banking
+start esx_status
+start esx_basicneeds
+start esx_menu_default
+start esx_menu_list
+start esx_menu_dialog
+start esx_gym
+start esx-qalle-needs
+start esx_optionalneeds
+start esx_customui
+start instance
+start esx_billing
+start esx_addonaccount
+start esx_addoninventory
+start esx_society
+start esx_datastore
+start esx_identity
+start esx_license
+start esx_property
+start esx_policejob
+start esx_celldoors
+start esx_drugs
+start esx_selldrugs
+start esx_crafting
+start esx_hospital
+start esx_borrmaskin
+start esx_holdupbank
+start esx_panicbutton
+start esx_mecanojob
+start esx_thief
+start esx_blackmoney
 start esx-carrental
 ```
 # EssentialMode Jobs
@@ -63,8 +63,8 @@ start esx_vigneronjob
 ```
 # Map Resources
 ```
-start police_dept <br/>
-start weigh_stations <br/>
+start police_dept
+start weigh_stations
 start route13_barriers
 ```
 # Vehicle Resources
