@@ -54,7 +54,8 @@ start esx_holdupbank <br/>
 start esx_panicbutton <br/>
 start esx_mecanojob <br/>
 start esx_thief <br/>
-start esx_blackmoney
+start esx_blackmoney <br/>
+start esx-carrental
 ```
 # EssentialMode Jobs
 ```
