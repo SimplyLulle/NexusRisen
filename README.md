@@ -73,6 +73,7 @@ start route13_barriers
 # Vehicle Resources
 ```
 start blaine_sheriff
+start los_santos_pd
 ```
 # Resources
 ```
