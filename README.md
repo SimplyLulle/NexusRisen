@@ -81,6 +81,7 @@ start helicopter_police
 # Resources
 ```
 start calmai
+start slashtires
 ```
 
 # MYSQL EXECUTION CODE
