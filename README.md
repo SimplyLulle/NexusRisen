@@ -76,6 +76,7 @@ start route13_barriers
 ```
 start blaine_sheriff
 start los_santos_pd
+start helicopter_police 
 ```
 # Resources
 ```
