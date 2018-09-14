@@ -77,11 +77,13 @@ start route13_barriers
 start blaine_sheriff
 start los_santos_pd
 start helicopter_police 
+start fire_boeing_747
 ```
 # Resources
 ```
 start calmai
 start slashtires
+start tase
 ```
 
 # MYSQL EXECUTION CODE
