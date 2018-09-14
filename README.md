@@ -85,6 +85,7 @@ start helicopter_fire
 start calmai
 start realaitraffic
 start slashtires
+start arrestanims
 start tase
 ```
 
