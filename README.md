@@ -59,6 +59,7 @@ start esx_mecanojob
 start esx_thief
 start esx_blackmoney
 start esx-carrental
+start esx_realweapons
 ```
 # EssentialMode Jobs
 ```
